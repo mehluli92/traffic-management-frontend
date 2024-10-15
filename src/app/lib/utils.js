@@ -1,0 +1,1 @@
+// All javascript utility methods to be put here
